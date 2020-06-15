@@ -1,0 +1,21 @@
+.content{
+	width: 75%;
+	float: left;
+	border: 1px solid green;
+}
+.newColor{
+	color:blue;
+	text-decoration: underline;
+}
+.menu{
+	width: 100%;
+}
+body{
+	background-color: pink; 
+}
+img{
+	width: 25%;
+}
+p{
+	font-size: 18pt;
+}
