@@ -1,6 +1,10 @@
 .col{
+    text-align: center;
     border: 2px solid black;
 
+}
+iframe#player{
+    display: inline-block;
 }
 .col .logo{
     float: left;
